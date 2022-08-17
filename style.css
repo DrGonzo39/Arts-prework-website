@@ -7,6 +7,10 @@ h1 {
 p {
     text-align: center;
 }
-script {
-    text-align: center;
+img {
+    height: 800px;
+    width: 600px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
 }
