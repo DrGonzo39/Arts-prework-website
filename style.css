@@ -1,3 +1,12 @@
 body {
     background:crimson;
 }
+h1 {
+    text-align:center
+}
+p {
+    text-align: center;
+}
+script {
+    text-align: center;
+}
